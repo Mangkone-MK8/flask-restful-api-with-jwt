@@ -1,0 +1,12 @@
+
+
+flask = "*"
+flask-marshmallow = "*"
+flask-sqlalchemy = "*"
+uuid = "*"
+werkzeug = "*"
+flask-migrate = "*"
+flask-script = "*"
+marshmallow-sqlalchemy = "*"
+pyjwt = "*"
+flask-jwt-extended = "*"
